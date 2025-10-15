@@ -1,0 +1,25 @@
+# Normalize text files to LF
+* text eol=lf
+
+# Mark common binary file types
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.bz2 binary
+*.7z binary
+*.mp4 binary
+*.mov binary
+
+# Prevent diff noise on lock files
+package-lock.json -diff
+pnpm-lock.yaml -diff
+yarn.lock -diff
+poetry.lock -diff
+
+# Shell scripts must be LF
+*.sh text eol=lf

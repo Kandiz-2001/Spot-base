@@ -1,0 +1,70 @@
+name: spotbase
+description: A decentralized location discovery and review app built on Base blockchain
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  provider: ^6.1.1
+  
+  # Web3 & Blockchain
+  web3dart: ^2.7.1
+  http: ^1.1.0
+  walletconnect_flutter_v2: ^2.1.11
+  
+  # Supabase Backend
+  supabase_flutter: ^2.10.3
+  
+  # Maps & Location
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+  flutter_map_location_marker: ^8.0.0
+  geolocator: ^10.1.0
+  geocoding: ^2.1.1
+  
+  # Image & Media
+  image_picker: ^1.0.4
+  cached_network_image: ^3.3.0
+  path_provider: ^2.1.1
+  
+  # Animations
+  flutter_animate: ^4.3.0
+  animations: ^2.0.8
+  lottie: ^2.7.0
+  
+  # UI Components
+  google_fonts: ^6.1.0
+  flutter_svg: ^2.0.9
+  shimmer: ^3.0.0
+  
+  # Utilities
+  intl: ^0.18.1
+  shared_preferences: ^2.5.3
+  flutter_dotenv: ^5.1.0
+  uuid: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - .env
+  #   - assets/images/
+  #   - assets/icons/
+  #   - assets/animations/
+  #   - .env
+  
+  # fonts:
+  #   - family: CustomIcons
+  #     fonts:
+  #       - asset: assets/fonts/CustomIcons.ttf

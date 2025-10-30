@@ -44,13 +44,20 @@ SpotBase connects to a wide range of wallets through WalletConnect, empowering u
 - **Download APK**: [SpotBase App](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/refs/heads/main/spotbase.apk)
 
 ### App Screenshots
-- ![Screenshot 1](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg)
-- ![Screenshot 2](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg)
-- ![Screenshot 3](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg)
-- ![Screenshot 4](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg)
-- ![Screenshot 5](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg)
-- ![Screenshot 6](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg)
-- ![Screenshot 7](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg)
+
+<div align="center">
+
+![Screenshot 1](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 1](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg#gh-dark-mode-only){width=30% height=30%}
+![Screenshot 2](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 2](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg#gh-dark-mode-only){width=30% height=30%}
+![Screenshot 3](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 3](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg#gh-dark-mode-only){width=30% height=30%}
+
+![Screenshot 4](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 4](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg#gh-dark-mode-only){width=30% height=30%}
+![Screenshot 5](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 5](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg#gh-dark-mode-only){width=30% height=30%}
+![Screenshot 6](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 6](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg#gh-dark-mode-only){width=30% height=30%}
+
+![Screenshot 7](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 7](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg#gh-dark-mode-only){width=30% height=30%}
+
+</div>
 
 ## Getting Help
 

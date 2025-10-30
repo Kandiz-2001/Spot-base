@@ -46,17 +46,15 @@ SpotBase connects to a wide range of wallets through WalletConnect, empowering u
 ### App Screenshots
 
 <div align="center">
-
-![Screenshot 1](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 1](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg#gh-dark-mode-only){width=30% height=30%}
-![Screenshot 2](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 2](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg#gh-dark-mode-only){width=30% height=30%}
-![Screenshot 3](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 3](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg#gh-dark-mode-only){width=30% height=30%}
-
-![Screenshot 4](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 4](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg#gh-dark-mode-only){width=30% height=30%}
-![Screenshot 5](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 5](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg#gh-dark-mode-only){width=30% height=30%}
-![Screenshot 6](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 6](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg#gh-dark-mode-only){width=30% height=30%}
-
-![Screenshot 7](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg#gh-light-mode-only){width=30% height=30%}![Screenshot 7](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg#gh-dark-mode-only){width=30% height=30%}
-
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg" width="30%" alt="Screenshot 1" title="SpotBase App - Screenshot 1" />
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg" width="30%" alt="Screenshot 2" title="SpotBase App - Screenshot 2" />
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg" width="30%" alt="Screenshot 3" title="SpotBase App - Screenshot 3" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg" width="30%" alt="Screenshot 4" title="SpotBase App - Screenshot 4" />
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg" width="30%" alt="Screenshot 5" title="SpotBase App - Screenshot 5" />
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg" width="30%" alt="Screenshot 6" title="SpotBase App - Screenshot 6" />
+  <br>
+  <img src="https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg" width="30%" alt="Screenshot 7" title="SpotBase App - Screenshot 7" />
 </div>
 
 ## Getting Help

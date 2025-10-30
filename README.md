@@ -39,6 +39,19 @@ SpotBase is a mobile app that combines the real world with Web3 technology. It l
 
 SpotBase connects to a wide range of wallets through WalletConnect, empowering users to access thousands of Web3 apps. It leverages the Base blockchain for secure and transparent recording of your contributions and rewards, and uses Supabase for user accounts, data storage, and image hosting.
 
+## Download and Screenshots
+
+- **Download APK**: [SpotBase App](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/refs/heads/main/spotbase.apk)
+
+### App Screenshots
+- ![Screenshot 1](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot1.jpg)
+- ![Screenshot 2](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot2.jpg)
+- ![Screenshot 3](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot3.jpg)
+- ![Screenshot 4](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot4.jpg)
+- ![Screenshot 5](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot5.jpg)
+- ![Screenshot 6](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot6.jpg)
+- ![Screenshot 7](https://raw.githubusercontent.com/Kandiz-2001/Spot-base/main/Screenshot7.jpg)
+
 ## Getting Help
 
 - For technical issues or feature requests, please check the GitHub repository for instructions on reporting issues.
